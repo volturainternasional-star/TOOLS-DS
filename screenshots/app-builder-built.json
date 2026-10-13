@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "All Tools FAHMI",
+      "hasCanvas": false,
+      "bodyTextLen": 7288,
+      "bodyTextHash": "81fdac1e9ada543f3fe885f1b7fa18cbbaa1ffb23f34b5490ab2e255a529c6bd",
+      "bodyTextPrefix": "Lewati ke konten utama FULL · GRATIS Menu Informasi Full Mode · ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "All Tools FAHMI",
+      "hasCanvas": false,
+      "bodyTextLen": 7274,
+      "bodyTextHash": "e97d4f6bc5bd3d34b3f28c211f86272868b57602317bde7bba320d497d034c59",
+      "bodyTextPrefix": "Lewati ke konten utama Menu Informasi Full Mode · About Dev · Re",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
